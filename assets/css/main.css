@@ -1256,10 +1256,7 @@
 				max-height: 40rem;
 				overflow: hidden;
 			}
-			.profile-pic{
-				height: 200px;
-				border-radius: 50%;
-			}
+
 
 				#header .content .inner > :last-child {
 					margin-bottom: 0;
@@ -1559,7 +1556,19 @@
 			}
 
 		}
-
+		.wintris {
+			font-size: 1rem;
+			color: #ffffff;
+			font-weight: 600;
+			line-height: 1.5;
+			margin: 0 0 1rem 0;
+			text-transform: uppercase;
+			letter-spacing: 0.2rem;
+		}
+		.profile-pic{
+			height: 200px;
+			border-radius: 50%;
+		}
 /* Footer */
 
 	#footer {
