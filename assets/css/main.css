@@ -602,6 +602,7 @@
 		display: inline-block;
 		position: relative;
 	}
+	
 
 		.image:before {
 			-moz-pointer-events: none;
