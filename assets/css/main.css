@@ -1615,3 +1615,26 @@ s		} */
     	font-family: sans-serif;
     	letter-spacing: 3px;
 		}
+
+		.domanipulator-img{
+			width: 100%;
+			border-bottom: none;
+		}
+		.domanipulator-img img{
+			width: 100%;
+		}
+		.todo-img{
+			width: 100%;
+			border-bottom: none;
+		}
+		.todo-img img{
+			width: 100%;
+		}
+		.DOManipulator-todo{
+			width: 100%;
+			display:flex;
+
+		}
+		a hover{
+			cursor: pointer;
+		}
