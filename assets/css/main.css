@@ -1609,7 +1609,15 @@
 		/* .skills-devicons{
 			display: flex;
 s		} */
-
+		.keep-track{
+			font-size: 1rem;
+			color: #ffffff;
+			font-weight: 600;
+			line-height: 1.5;
+			margin: 0 0 1rem 0;
+			text-transform: uppercase;
+			letter-spacing: 0.2rem;
+		}
 		.resume-link{
 			font-size: 40px;
     	font-family: sans-serif;
@@ -1633,8 +1641,8 @@ s		} */
 		.DOManipulator-todo{
 			width: 100%;
 			display:flex;
-
 		}
+
 		a hover{
 			cursor: pointer;
 		}
